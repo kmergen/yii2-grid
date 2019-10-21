@@ -1,6 +1,6 @@
 <h1 align="center">Yii 2 Grid</h1>
 
-Useful grid classes to use in GridView widget with Bootstrap 4.
+Useful grid classes to use in GridView widget with Bootstrap 4 CSS Framework.
 
 ###Installation
 
